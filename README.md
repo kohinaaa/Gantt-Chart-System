@@ -1,2 +1,2 @@
 # Gantt-Chart-System
-Jack En Poy Game is a text-based Rock-Paper-Scissors program written in C language. It uses conditional statements, random number generation, and loops to simulate rounds between the player and computer, demonstrating basic game logic and control flow.
+Gantt Chart System is a desktop-based application developed in Python that visualizes project schedules through interactive Gantt charts. It uses Tkinter for the graphical interface and Matplotlib for chart generation, enabling users to manage tasks, plot timelines, and track project progress. This project demonstrates my skills in data visualization and GUI development using Python.
